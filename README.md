@@ -26,3 +26,7 @@ Before running the tests make sure you are serving the app via `ng serve`.
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## Feature 2 practice ng2-dynamic-dialog
+
+To get more messages of ng2-dialog go check out the [ng2-dynamic-dialog Document](https://www.npmjs.com/package/ng2-dynamic-dialog).
