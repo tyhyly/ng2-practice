@@ -29,4 +29,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Feature 1 practice ngx-bootstrap
 
-To get more messages of ngx-bootstrap go check out the [ngx-bootstrap Document](http://valor-software.com/ngx-bootstrap/#/).
+To get more messages of ngx-bootstrap go check out the [ngx-bootstrap Document and refAPI](http://valor-software.com/ngx-bootstrap/#/).
