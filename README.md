@@ -29,4 +29,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Feature 2 practice ng2-dynamic-dialog
 
-To get more messages of ng2-dialog go check out the [ng2-dynamic-dialog Document](https://www.npmjs.com/package/ng2-dynamic-dialog).
+To get more messages of ng2-dialog go check out the [ng2-dynamic-dialog Document and API](https://www.npmjs.com/package/ng2-dynamic-dialog).
